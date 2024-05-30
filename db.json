@@ -10,4 +10,17 @@
       "name": "User",
       "password": "71948497"
     }
-]}
+], 
+    "prods" : [
+    {
+      "id": 1,
+      "name": "prod1",
+      "pass": "s-7194849"
+    },
+    {
+      "id": 2,
+      "name": "prod2",
+      "pass": "71948497"
+    }
+]
+}
